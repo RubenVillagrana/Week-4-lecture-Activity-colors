@@ -1,1 +1,30 @@
+body { background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
 
+}
+h1 {
+    text-align: center;
+    color: black;
+    background-color: #44a504;
+    border-color: black;
+    padding: 1em;
+    font-style: italic; 
+        }
+p {
+   color: black;
+   background-color: #d8225f;
+   border-color: black 100em;
+   padding: 1em;
+   font-style: oblique;
+   font-size: 2em ;
+    
+}
+
+nav {
+    font-size: 2em;
+    padding: 1em;
+    background-color: aqua;
+    
+    
+    
+}
